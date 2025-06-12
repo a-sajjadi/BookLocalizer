@@ -58,3 +58,15 @@ python main.py path/to/book.epub --model Helsinki-NLP/opus-mt-en-de  # translate
 ```
 The interface lets you tweak model settings, translate individual chapters or a range, and export the result as a new EPUB.
 Add `--backend ollama` to use your own Ollama server when using command line. If you omit `--target`, translations default to English.
+
+<img width="1279" alt="FullGUI" src="https://github.com/user-attachments/assets/68b0f627-5a8d-478e-955d-5e6f11d77928" />
+
+*Full GUI Screenshot*
+
+<img width="629" alt="SourceOnly" src="https://github.com/user-attachments/assets/858cee27-865c-4bd8-8fad-84b3289aa3ac" />
+
+*Sidepane Hidden Screenshot*
+
+<img width="583" alt="Glossary" src="https://github.com/user-attachments/assets/949ac460-3607-4719-83aa-34de077ddb37" />
+
+*Example of Glossary Function*
