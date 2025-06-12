@@ -1,0 +1,9 @@
+ebooklib
+langdetect
+transformers
+requests
+pypdf
+python-docx
+beautifulsoup4
+psutil
+reportlab
