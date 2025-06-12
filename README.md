@@ -1,5 +1,6 @@
-# BookLocalizer
-Local Open-Source LLM-based Book Translator App
+<img src="https://github.com/user-attachments/assets/6782c41a-5732-4c7f-9d06-4b3dbd5a1c0d" width="300"> 
+
+# BookLocalizer - Local Open-Source LLM-based Book Translator App
 
 BookLocalizer helps translate books on your own machine. It works with EPUB, PDF, text and Word files. The app cleans up the source text, detects its language and then translates it using models from HuggingFace or a local Ollama server.
 
